@@ -2,6 +2,8 @@
 *.txt
 *.xlsx
 *.pdf
+*.png
+*.jpg
 .ipynb_checkpoints/
 .DS_Store
 catboost_info
