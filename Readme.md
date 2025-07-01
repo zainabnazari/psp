@@ -23,11 +23,11 @@ Pearson's correlation
 ### Pathway analysis 
 - Heat map of 20 pathway
 
-![My diagram](/Users/zainabnazari/all_psp/psp/data/heatmap_20.png)
+![My diagram](./data/heatmap_20.png)
 
 - Heat map of 100 pathways
 
-[View PDF](data/HeatmapSelectedGOTop100.pdf)
+[View PDF](./data/HeatmapSelectedGOTop100.pdf)
 
 
 
