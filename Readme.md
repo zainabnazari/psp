@@ -17,8 +17,10 @@
 
 ## DESeq2 analysis
 
+80 top genes selected.
+
 ## Correlation with clinical Scores
-Pearson's correlation
+Pearson's correlation with 18 genelists.
 
 ### Pathway analysis 
 - Heat map of 20 pathway
